@@ -26,11 +26,24 @@ Ahmed is a comprehensive, production-scale administrative dashboard ecosystem. I
 
 ### 📸 Preview
 
-| 🖥️ Analytical Dashboard Layout | 📂 File Statistics Manager | ⚙️ General Settings Portal |
-| :---: | :---: | :---: |
-| ![Ahmed Dashboard](path/to/ahmed-dash.png) | ![Ahmed Storage](path/to/ahmed-files.png) | ![Ahmed Settings](path/to/ahmed-settings.png) |
+<div align="center" style="margin: 25px 0; max-width: 800px; margin-left: auto; margin-right: auto;">
 
-> 💡 *Note: Please replace the placeholder image paths above with your actual screenshot image locations (e.g., `images/ahmed-dash.png`).*
+  <!-- Image 1 (Open by default) -->
+  <details open style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸 Main Dashboard View (Click to Collapse)</summary>
+    <div align="center">
+      <img src="Images/41.png" alt="Main Dashboard Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+
+  <!-- Image 2 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸 Arabic Localization View (Click to Open)</summary>
+    <div align="center">
+      <img src="weather1.png" alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+
 
 ### 🛠️ Tech Stack & Setup
 * **Technologies Used:** HTML5, CSS3 (Advanced Flexbox layout modules, CSS variable trees, `@keyframes` tracking loops).
