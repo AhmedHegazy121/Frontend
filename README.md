@@ -40,9 +40,17 @@ Ahmed is a comprehensive, production-scale administrative dashboard ecosystem. I
   <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
     <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸 Arabic Localization View (Click to Open)</summary>
     <div align="center">
-      <img src="weather1.png" alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+      <img src="Images/42.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
     </div>
   </details>
+  <!-- Image 3 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸 Arabic Localization View (Click to Open)</summary>
+    <div align="center">
+      <img src="Images/43.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+    </div>
 
 
 ### 🛠️ Tech Stack & Setup
