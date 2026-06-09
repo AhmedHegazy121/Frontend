@@ -4,18 +4,14 @@ Welcome to this frontend architecture repository! This project contains **4 uniq
 
 ---
 
----
-
 ## 🗺️ Table of Contents
 1. [📊 Template 4: Ahmed - Administrative Dashboard Hub](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_4/index.html)
 2. [⚡ Template 3: Elzero - Dashboard & Complex Component Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_3/index.html)
 3. [🎨 Template 2: Kasper - Creative Portfolio & Art Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_2/index.html)
 4. [🚀 Template 1: Leon - Creative Agency Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_1/index.html)
-5. [🛠️ Global Installation & Setup](#%EF%B8%8F-global-installation--setup)
 
 ---
 
----
 
 ## 📊 [Administrative Dashboard Hub ](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_4/index.html)
 
@@ -63,7 +59,7 @@ Ahmed is a comprehensive, production-scale administrative dashboard ecosystem. I
 
 ---
 
-## ⚡ Elzero - Dashboard & Complex Component Template
+## ⚡ [Elzero - Dashboard & Complex Component Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_3/index.html)
 
 ### 📌 Project Overview
 Elzero is a feature-rich, multi-component dashboard and community-style web template. It is designed for platform-scale web portals, interactive learning hubs, or tech content networks. The template heavily utilizes CSS custom parameters, multi-axis keyframe animations, complex megamenu dropdown structures, and heavy grid modules to present a dense amount of data blocks in a highly clean layout.
@@ -108,7 +104,7 @@ Elzero is a feature-rich, multi-component dashboard and community-style web temp
 
 ---
 
-## 🎨 Kasper - Creative Portfolio & Art Template
+## 🎨 [Kasper - Creative Portfolio & Art Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_2/index.html)
 
 ### 📌 Project Overview
 Kasper is a premium, feature-rich corporate portfolio web template styled specifically for artistic agencies, digital creators, and professional design studios. It uses a sleek dark-themed header layout coupled with vivid overlay backgrounds, text modules, custom filtering tabs, and fully stylized interactive components to offer users a cinematic and immersive experience.
@@ -150,7 +146,7 @@ Kasper is a premium, feature-rich corporate portfolio web template styled specif
 
 ---
 
-## 🚀 Leon - Creative Agency Template
+## 🚀 [Leon - Creative Agency Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_1/index.html)
 
 ### 📌 Project Overview
 Leon is a modern, minimal, and fully responsive multi-page agency web template. It is carefully crafted to help creative agencies, freelancers, and designers showcase their business beautifully. The design relies on clean typography, smooth transitions, and grid-based layouts to present professional services and portfolio works seamlessly.
