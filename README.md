@@ -7,17 +7,17 @@ Welcome to this frontend architecture repository! This project contains **4 uniq
 ---
 
 ## 🗺️ Table of Contents
-1. [📊 Template 4: Ahmed - Administrative Dashboard Hub](#-template-4-ahmed---administrative-dashboard-hub)
-2. [⚡ Template 3: Elzero - Dashboard & Complex Component Template](#-template-3-elzero---dashboard--complex-component-template)
-3. [🎨 Template 2: Kasper - Creative Portfolio & Art Template](#-template-2-kasper---creative-portfolio--art-template)
-4. [🚀 Template 1: Leon - Creative Agency Template](#-template-1-leon---creative-agency-template)
+1. [📊 Template 4: Ahmed - Administrative Dashboard Hub](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_4/index.html)
+2. [⚡ Template 3: Elzero - Dashboard & Complex Component Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_3/index.html)
+3. [🎨 Template 2: Kasper - Creative Portfolio & Art Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_2/index.html)
+4. [🚀 Template 1: Leon - Creative Agency Template](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_1/index.html)
 5. [🛠️ Global Installation & Setup](#%EF%B8%8F-global-installation--setup)
 
 ---
 
 ---
 
-## 📊 Ahmed - Administrative Dashboard Hub
+## 📊 [Administrative Dashboard Hub ](https://frontend-murex-six-74.vercel.app/HTML&CSS_Projects/Template_4/index.html)
 
 ### 📌 Project Overview
 Ahmed is a comprehensive, production-scale administrative dashboard ecosystem. It provides an all-in-one workspace solution featuring multiple integrated view interfaces, such as data targets tracking, profile management matrices, cloud file storage statistics, social networking modules, and dynamic course learning matrices. The layout features custom responsive controls, a collapsible system sidebar, and specialized visual tools tailored for data analysis.
