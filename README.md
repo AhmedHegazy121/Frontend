@@ -5,10 +5,10 @@ Welcome to this frontend architecture repository! This project contains **4 uniq
 ---
 
 ## 🗺️ Table of Contents
-1. [📊 Ahmed - Administrative Dashboard Hub](#-ahmed---administrative-dashboard-hub)
-2. [⚡ Elzero - Dashboard & Complex Component Template](#-elzero---dashboard--complex-component-template)
-3. [🎨 Kasper - Creative Portfolio & Art Template](#-kasper---creative-portfolio--art-template)
-4. [🚀 Leon - Creative Agency Template](#-leon---creative-agency-template)
+1. [📊 Ahmed - Administrative Dashboard Hub](http://127.0.0.1:5500/index.html)
+2. [⚡ Elzero - Dashboard & Complex Component Template](http://127.0.0.1:5500/index.html)
+3. [🎨 Kasper - Creative Portfolio & Art Template](http://127.0.0.1:5500/index.html)
+4. [🚀 Leon - Creative Agency Template](http://127.0.0.1:5500/index.html)
 5. [🛠️ Global Installation & Setup](#%EF%B8%8F-global-installation--setup)
 
 ---
