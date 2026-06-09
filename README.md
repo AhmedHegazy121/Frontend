@@ -72,9 +72,31 @@ Elzero is a feature-rich, multi-component dashboard and community-style web temp
 
 ### 📸 Preview
 
-| 🖥️ Desktop Landing & Megamenu | 📊 Data Widgets & Stats | ⏱️ Live Event Countdown |
-| :---: | :---: | :---: |
-| ![Elzero Home](path/to/elzero-home.png) | ![Elzero Widgets](path/to/elzero-widgets.png) | ![Elzero Events](path/to/elzero-events.png) |
+<div align="center" style="margin: 25px 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+
+  <!-- Image 1 (Open by default) -->
+  <details open style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Collapse)</summary>
+    <div align="center">
+      <img src="Images/31.png" alt="Main Dashboard Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+
+  <!-- Image 2 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Open)</summary>
+    <div align="center">
+      <img src="Images/32.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+  <!-- Image 3 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Open)</summary>
+    <div align="center">
+      <img src="Images/33.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+    </div>
 
 ### 🛠️ Tech Stack & Setup
 * **Technologies Used:** HTML5, CSS3 (Advanced `@keyframes`, Pseudo-elements, CSS Grid & Flexbox).
