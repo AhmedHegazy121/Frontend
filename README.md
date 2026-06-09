@@ -117,13 +117,32 @@ Kasper is a premium, feature-rich corporate portfolio web template styled specif
 
 ### 📸 Preview
 
-| 🖥️ Desktop Hero Banner | 🎨 Portfolio Filter Grid | 💳 Interactive Price Tiers |
-| :---: | :---: | :---: |
-| ![Kasper Home](path/to/kasper-home.png) | ![Kasper Works](path/to/kasper-portfolio.png) | ![Kasper Pricing](path/to/kasper-pricing.png) |
+<div align="center" style="margin: 25px 0; max-width: 800px; margin-left: auto; margin-right: auto;">
 
-### 🛠️ Tech Stack & Setup
-* **Technologies Used:** HTML5, CSS3 (Custom Variables, Flexbox, CSS Grid Layouts).
-* **Typography:** Open Sans paired with Font Awesome 5 icons.
+  <!-- Image 1 (Open by default) -->
+  <details open style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Collapse)</summary>
+    <div align="center">
+      <img src="Images/25.png" alt="Main Dashboard Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+
+  <!-- Image 2 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Open)</summary>
+    <div align="center">
+      <img src="Images/23.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+  <!-- Image 3 -->
+  <details style="margin-bottom: 15px; background: rgba(0, 105, 92, 0.05); padding: 12px; border-radius: 12px; border: 1px solid rgba(0, 105, 92, 0.15); text-align: left; direction: ltr;">
+    <summary style="font-weight: bold; font-size: 16px; color: #00695c; cursor: pointer; user-select: none;">📸  (Click to Open)</summary>
+    <div align="center">
+      <img src="Images/23.png"  alt="Arabic Localized Interface" style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); margin-top: 15px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+    </div>
+  </details>
+    </div>
+
 
 ---
 
