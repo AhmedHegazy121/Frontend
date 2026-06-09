@@ -214,4 +214,3 @@ To launch and run any of these templates locally on your machine, follow these s
 
 ---
 <p align="center">Made with ❤️ by Ahmed Hegazy</p>
-
